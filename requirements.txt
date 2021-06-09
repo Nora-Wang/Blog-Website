@@ -1,6 +1,6 @@
 certifi==2019.6.16
 Click==7.0
-Django==2.2.5
+Django==2.2.22
 Flask==1.1.1
 pbr==5.4.1
 pipenv==2018.11.26
