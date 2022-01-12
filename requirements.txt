@@ -3,7 +3,7 @@ Click==7.0
 Django==2.2.5
 Flask==1.1.1
 pbr==5.4.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 pygame==1.9.6
 pytz==2019.1
 six==1.12.0
